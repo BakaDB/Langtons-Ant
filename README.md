@@ -5,8 +5,8 @@ directions at each step it takes and moves accordingly to these rules:
 * At a white square, turn 90° right, flip the color of the square, move forward one unit
 * At a black square, turn 90° left, flip the color of the square, move forward one unit
 
-## Modes of behavior
-### Starting on a completely with a white grid.
+## Ant's behaviour
+**_Starting on a completely with a white grid._**
 
 - Simplicity - During the first few hundred moves it creates very simple patterns which are often symmetric.
 - Chaos - After a few hundred moves, a big, irregular pattern of black and white squares appears. The ant traces a pseudo-random 
